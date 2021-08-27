@@ -11,5 +11,6 @@ public class Git_Test {
             System.out.println(i);
             System.out.println("a: " + i);
         }
+        System.out.println("finally");
     }
 }
